@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add Customer Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.022">
+  <properties />
+  
+  
+            <testcase name="addCustomer" time="6.589" classname="com.w2a.TestCases.AddCustomerTest" />
+                <testcase name="addCustomer" time="6.433" classname="com.w2a.TestCases.AddCustomerTest" />
+      
+</testsuite>
